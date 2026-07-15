@@ -69,7 +69,7 @@ The parser reads your Discord locale and tries that language first (Portuguese o
 
 **3. Run it locally.**
 ```powershell
-git clone https://github.com/azevedo1x/syncmemobot.git
+git clone https://github.com/azevedo1z/syncmemobot.git
 cd syncmemobot\src\SyncMemoBot.Discord
 dotnet user-secrets set "Discord:Token" "<YOUR_TOKEN>"
 dotnet run
