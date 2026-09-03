@@ -145,7 +145,5 @@ dotnet test
 ---
 
 <p align="center">
-  <sub>Built for friends who keep saying "I forgot."</sub>
-  <br/>
-  <sub>Made with .NET and a healthy distrust of human memory.</sub>
+  <sub>Made with .NET and a healthy urge to decompile everything.</sub>
 </p>
